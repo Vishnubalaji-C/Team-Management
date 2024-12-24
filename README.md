@@ -30,7 +30,7 @@ _(click the button!)_
 
 -------------------------------------------------------------------------------------------------------
 
-- 👨‍💻All of my projects are available at [https://github.com/Hirthick6](https://github.com/Vishnubalaji-C)
+- 👨‍💻All of my projects are available at [https://github.com/Vishnubalaji-C](https://github.com/Vishnubalaji-C)
 
 -------------------------------------------------------------------------------------------------------
 **Check out 
